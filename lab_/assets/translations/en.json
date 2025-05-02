@@ -1,0 +1,15 @@
+{
+    "register_form": "Register Form",
+    "full_name": "Full Name *",
+    "enter_name": "What do people call you?",
+    "phone": "Phone Number *",
+    "enter_phone": "Where can we reach you?",
+    "email": "Email Address",
+    "enter_email": "Enter your email address",
+    "country": "Country",
+    "select_country": "Select your country",
+    "password": "Password *",
+    "confirm_password": "Confirm Password *",
+    "submit": "Submit"
+  }
+  
